@@ -1,0 +1,47 @@
+header
+{
+background-color:goldenrod;
+}
+
+.nav-principal
+{
+    display:inline-block
+}
+
+.img-principal 
+{
+    width: 500px;
+}
+
+.logo-img-app
+{
+    display:inline-block;
+    width: 80px;
+    width: 80px;
+    margin: 5px;
+    padding: 10px;
+}
+
+nav{
+    display: inline-block;
+    width: 740px;
+    text-align: right;
+}
+
+nav li
+{
+    display:inline-block;
+    margin-right: 15px;
+    list-style-type:none;
+}
+
+nav a:hover 
+{
+    color: crimson;
+    border-bottom: 3px, crimson;
+    
+}
+nav a
+{
+    color: black;
+}

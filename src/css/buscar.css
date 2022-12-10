@@ -1,0 +1,29 @@
+.container-barra
+{
+    margin-top: 80px;
+
+}
+
+.mb-3
+{
+    display: block;
+}
+
+.busca-control
+{
+    border-color:rgb(12, 12, 12);
+    border-radius: 5px;
+    width: 30%;
+    height: 1.25pc;
+    background-color:bisque;
+    
+}
+
+.button
+{
+    background-color: blanchedalmond;
+    margin: 5px;
+    padding: 10px;
+    border-color: blue;
+    
+}
